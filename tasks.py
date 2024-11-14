@@ -1,4 +1,3 @@
-import os
 import shutil
 from robocorp.tasks import task
 from robocorp import browser
